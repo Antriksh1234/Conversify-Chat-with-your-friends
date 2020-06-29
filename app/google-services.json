@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "243463161147",
+    "firebase_url": "https://conversify-5d914.firebaseio.com",
+    "project_id": "conversify-5d914",
+    "storage_bucket": "conversify-5d914.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243463161147:android:5821a78cf44a0e4034631e",
+        "android_client_info": {
+          "package_name": "com.example.conversify_chatwithyourfriends"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "243463161147-3vkl5o1r3a29pkmoj374u0plm3ck7tba.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClWoyuU0-RWsYPMxLjVUKLd9l1kdj0u48"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "243463161147-3vkl5o1r3a29pkmoj374u0plm3ck7tba.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
